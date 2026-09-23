@@ -1,0 +1,8 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiD3NXLG1noLWJPS-jltD3fAlm0jGC9b1WlVacEJBsQ&s=10) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    -webkit-text-stroke:1px #666666;
+    
+}
